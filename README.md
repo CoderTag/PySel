@@ -1,10 +1,61 @@
 # Project Title
 
-One Paragraph of project description goes here
+Selenium and pytest automation framework. 
 
-## Getting Started
+## Practice Websites
+### Form Handling
+This website provides a form with different input fields, 
+radio buttons, and a dropdown. Testers can practice automating 
+form submissions and verifying validations.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+* https://demoqa.com/automation-practice-form
+* https://demoqa.com/browser-windows
+* https://demoqa.com/alerts
+* https://demoqa.com/frames
+
+###  Dynamic Content
+This website demonstrates how to handle dynamically loaded 
+elements using Selenium. It offers scenarios where elements
+appear after a certain delay.
+
+* https://the-internet.herokuapp.com/dynamic_loading
+
+### Web UI
+One of the most interesting websties to practice Selenium is 
+CandyMapper. This halloween-style demo website is designed to 
+find bugs.
+*  https://candymapper.com/
+
+### Online shop Simulation
+For testers interested in simulating online shop scenarios, the Sauce Labs 
+application is an excellent choice. This site mimics an e-commerce portal 
+and provides opportunity to automate product selection, shopping cart 
+management, and the checkout process. Testers can hone their skills in 
+end-to-end user flow automation and complex interactions.
+
+* https://www.saucedemo.com/
+
+### E-commerce
+This is another example of a simple online store, perfect for UI testing.
+
+* https://www.demoblaze.com/
+
+### Form Handling, UI Design
+Formy provides various forms and UI components for practice, helping testers 
+master form automation and enhance their UI testing skills.
+
+* https://formy-project.herokuapp.com/
+
+### Herokuapp – Floating Menu
+
+This demo site focuses on testing floating menus and interactions that involve
+scrolling. Testers can work on automating interactions with floating menus and
+handling scrolling behavior on web pages. This scenario is particularly useful
+for testers who want to explore more advanced user interactions beyond basic 
+clicks and inputs.
+
+* https://the-internet.herokuapp.com/floating_menu
+
 
 ### Prerequisites
 
